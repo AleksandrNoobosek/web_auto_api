@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+address_2: https://www.google.ru/
+browser: chrome
+sleep_time: 5
+
+fromaddr: "fromaddress@mail.ru"
+toaddr: "tooaddress@mail.ru"
+mypass: "7P76XCMuvBDPXa7ekDWW"
+reportname: "log.txt"

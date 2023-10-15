@@ -1,0 +1,2 @@
+2023-10-15 14:24:21 INFO ====== WebDriver manager ======
+2023-10-15 14:24:22 INFO Get LATEST chromedriver version for google-chrome
